@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "TAF：痕迹-注意力框架（大模型篇）"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-09-06
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/mofahuizhang/TAF"
+keywords:
+  - 痕迹-注意力框架
+  - TAF
+  - 公理化体系
+  - 大模型
+  - 注意力经济学
+  - AGI判定
+  - Block知识块
+  - 仿生工程架构
