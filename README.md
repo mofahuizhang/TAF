@@ -64,7 +64,7 @@ T（客观痕迹总集）
 ```
 TAF/
 ├── README.md                    # 本文件
-├── LICENSE                      # CC BY-NC 4.0 + 商业授权
+├── LICENSE                      # CC BY-NC-ND 4.0 + 商业授权
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── .gitignore
@@ -89,7 +89,7 @@ TAF/
 
 ## 许可协议
 
-本作品采用 **CC BY-NC 4.0（知识共享 署名-非商业性使用 4.0 国际许可协议）** 授权。
+本作品采用 **CC BY-NC-ND 4.0（知识共享 署名-非商业性使用-禁止演绎 4.0 国际许可协议）** 授权。
 
 如需商业使用或年度授权，请联系作者：mofahuizhang@163.com
 

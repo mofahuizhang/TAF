@@ -7,7 +7,7 @@ authors:
     alias: "魔法徽章 / mofahuizhang"
 version: 1.0.0
 date-released: 2026-09-06
-license: CC-BY-NC-4.0
+license: CC-BY-NC-ND-4.0
 repository-code: "https://github.com/mofahuizhang/TAF"
 keywords:
   - 痕迹-注意力框架
